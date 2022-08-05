@@ -23,5 +23,5 @@ step 4: open localhost with yarn start command..
 
 
 
-![Random User App](https://github.com/IRONSTONE-A/react-task-tracker/blob/master/Task-tracker-react.gif)
+![Random User App](https://github.com/IRONSTONE-A/random-user-with-react/blob/master/react-random-user.gif)
 
